@@ -1,0 +1,142 @@
+[{
+  "_id": {
+    "$oid": "62aeab121e879c0768c829c2"
+  },
+  "maVoucher": "999999",
+  "phanTramGiamGia": 100,
+  "ghiChu": "free",
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655614214472"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655614214472"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aeab291e879c0768c829c4"
+  },
+  "maVoucher": "888888",
+  "phanTramGiamGia": 50,
+  "ghiChu": "Giảm 50%",
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655614214472"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655614214472"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aeab3a1e879c0768c829c6"
+  },
+  "maVoucher": "666666",
+  "phanTramGiamGia": 30,
+  "ghiChu": "Giảm 30%",
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655614214472"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655614214472"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aeab471e879c0768c829c8"
+  },
+  "maVoucher": "12354",
+  "phanTramGiamGia": 10,
+  "ghiChu": "Giảm 10%",
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655614214472"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655614214472"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aeab4e1e879c0768c829ca"
+  },
+  "maVoucher": "12332",
+  "phanTramGiamGia": 20,
+  "ghiChu": "Giảm 20%",
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655614214472"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655614214472"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b46dbfb9dafa10bb37e98c"
+  },
+  "maVoucher": "2221",
+  "phanTramGiamGia": 15,
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655991689994"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655991689994"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b46dcdb9dafa10bb37e990"
+  },
+  "maVoucher": "111111",
+  "phanTramGiamGia": 5,
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655991689994"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655991689994"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b46ddeb9dafa10bb37e992"
+  },
+  "maVoucher": "333333",
+  "phanTramGiamGia": 25,
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655991689994"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655991689994"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "62e035106022f5ba6a69a2b9"
+  },
+  "fullName": "Hoàng Béo",
+  "email": "Hoang@devcamp.edu",
+  "address": "Hà Nộii",
+  "phone": "0865241654",
+  "orders": [
+    {
+      "$oid": "62e035536022f5ba6a69a2c3"
+    },
+    {
+      "$oid": "62e0c73ce69f4e2d53ec622f"
+    }
+  ],
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1658860785346"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1658860785346"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e036fc6022f5ba6a69a2cc"
+  },
+  "fullName": "danh",
+  "email": "danh@gmail.com",
+  "address": "Hồ Chí Minh",
+  "phone": "0123456999",
+  "orders": [
+    {
+      "$oid": "62e0384d6022f5ba6a69a2d2"
+    }
+  ],
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1658860785346"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1658860785346"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e0c31a18c752a53f9e770b"
+  },
+  "fullName": "Hoàng Béo",
+  "email": "Hoang@devcamp.edu",
+  "address": "Hà Nộii",
+  "phone": "0865241654",
+  "orders": [],
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1658897009466"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1658897009466"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f275f0929a76bbeff2176a"
+  },
+  "fullName": "danh còi",
+  "email": "abc@gmail.com",
+  "address": "123 abc",
+  "phone": "0865241654",
+  "orders": [],
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1660057032041"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1660057032041"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630f45534734da01ae122d58"
+  },
+  "fullName": "ad",
+  "email": "hgsfdas@gmail.com",
+  "address": "vt",
+  "phone": "0582",
+  "orders": [],
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1661945123198"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1661945123198"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631bef64ee77a90c9ce0bc39"
+  },
+  "fullName": "a",
+  "email": "sf@gmail.com",
+  "address": "da",
+  "phone": "131",
+  "orders": [],
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1662775073518"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1662775073518"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631bf5b90e92f00374ef8c4e"
+  },
+  "fullName": "hmgf",
+  "email": "gdfd@gmail.com",
+  "address": "42",
+  "phone": "42",
+  "orders": [],
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1662776728166"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1662776728166"
+    }
+  },
+  "__v": 0
+}]

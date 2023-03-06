@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "62aea8a9b1cb24c7b4ca716b"
+  },
+  "maNuocUong": "TRATAC",
+  "tenNuocUong": "Trà tắc",
+  "donGia": 10,
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655613543079"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655613543079"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aea8bab1cb24c7b4ca716d"
+  },
+  "maNuocUong": "TRASUA",
+  "tenNuocUong": "Trà sữa",
+  "donGia": 50,
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655613543079"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655613543079"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aea8cbb1cb24c7b4ca716f"
+  },
+  "maNuocUong": "COCA",
+  "tenNuocUong": "Cocacola",
+  "donGia": 20,
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655613543079"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655613543079"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aea8d9b1cb24c7b4ca7171"
+  },
+  "maNuocUong": "PEPSI",
+  "tenNuocUong": "pepsi",
+  "donGia": 20,
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655613543079"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655613543079"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aea8e3b1cb24c7b4ca7173"
+  },
+  "maNuocUong": "FANTA",
+  "tenNuocUong": "fanta",
+  "donGia": 20,
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655613543079"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655613543079"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aea8f7b1cb24c7b4ca7175"
+  },
+  "maNuocUong": "LAVIE",
+  "tenNuocUong": "Nước lọc",
+  "donGia": 7,
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1655613543079"
+    }
+  },
+  "ngayCapNhat": {
+    "$date": {
+      "$numberLong": "1655613543079"
+    }
+  },
+  "__v": 0
+}]
